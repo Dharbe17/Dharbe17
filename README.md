@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dharbe17
+-work at self discovery
 - 👀 I’m interested in website creating
 - 🌱 I’m currently learning basic knowledge
 - 💞️ I’m looking to collaborate on github
